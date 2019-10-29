@@ -3,14 +3,16 @@ This site was created as a commissioned project for a local dental company in To
 
 ##### Project was started on Sept-11-2019
 
-###### Company: KMF Dental
+###### Company: 
+##### KMF Dental
 Address: 1331 Warden Ave  
-Scarborough Ontario  
+Scarborough, Ontario, Canada
 M1R 5A8  
 
-###### Company (Updated Name Change As of October 2019: Dentstry on Warden Ave
+###### Company (Updated Name Change As of October 2019): 
+##### Dentistry on Warden Ave
 Address: 1331 Warden Ave  
-Scarborough Ontario  
+Scarborough, Ontario, Canada
 M1R 5A8  
 
 ## Website Developed by Troy Garcia & FrontEndOnFront
